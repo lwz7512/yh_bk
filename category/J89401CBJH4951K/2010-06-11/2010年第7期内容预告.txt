@@ -1,0 +1,13 @@
+<P>【一家言】 <BR>以党治国面面观．．．．．．．．．．．．．．于一夫<BR>也谈阿克顿的名言．．．．．．．．．．．．．许良英</P>
+<P>【亲历记】<BR>从批尸闹剧看“四清”运动．．．．．．．．．尹曙生<BR>我随万名干部下放农村．．．．．．．．．．．孙亚英<BR>日军投降后的牡丹江．．．．．．．．．．．．阎　强</P>
+<P>【往事录】<BR>中国改革初期的四川探索．．．．．．．．．．杨汝岱<BR>中南海的“二王、八司马事件”．．．．．．．孙言诚<BR>北大附中“文革”初期纪事．．．．．．．．．陈　兵</P>
+<P>【春秋笔】<BR>傅作义与右派八弟傅作恭．．．．．．．．．．崔增印<BR>都是日记惹的祸．．．．．．．．．．．．．．韩振国<BR>穿“尿素裤”的特权．．．．．．．．．．．．陈世高</P>
+<P>【故纸堆】<BR>淮海战役日记摘抄．．．．．．．．．．．．．庄　重<BR>大饥荒年代迫害上访者史料．．．．．．．．．赵宗礼</P>
+<P>【人物志】<BR>罗隆基和他的法哲学．．．．．．．．．．．．喻中原<BR>田纪云副总理二三事．．．．．．．．．．．．邱　源<BR>老记者尤淇．．．．．．．．．．．．．．．．刘渭福<BR>痛悼朱厚泽（诗一首）．．．．．．．．．．．吴&nbsp;&nbsp;&nbsp; 象</P>
+<P>【沉思录】<BR>党内民主与政治安全．．．．．．．．．．．．吴　江<BR>也谈“中国式思维”．．．．．．．．．．苏仲湘&nbsp; 遗稿<BR>暮年的反思．．．．．．．．．．．．．．．．徐　孔</P>
+<P>【争鸣录】<BR>毛泽东没有在“五一口号”中加写“毛主席万岁”<BR>．．．．．．．．．．．．．．．．．．．．．张素华</P>
+<P>【求实篇】<BR>刘少奇和江渭清的一场争论．．．．．．．．．王永华<BR>我所知道的“特殊案件”．．．．．．．．．．肖　磊</P>
+<P>【海外事】<BR>普列汉诺夫和列宁的争论．．．．．．．．．．尹振环</P>
+<P>【编读窗】<BR>读者来信摘登．．．．．．．．．．．&nbsp; 裴国成&nbsp; 霍拥军</P>
+<P>&nbsp;<SPAN style="FONT-FAMILY: 黑体; FONT-SIZE: 9pt; mso-font-kerning: 1.0pt; mso-hansi-font-family: Verdana; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA"><SPAN style="FONT-FAMILY: 黑体; FONT-SIZE: 10.5pt; mso-font-kerning: 1.0pt; mso-hansi-font-family: Verdana; mso-bidi-font-family: 'Times New Roman'; mso-ansi-language: EN-US; mso-fareast-language: ZH-CN; mso-bidi-language: AR-SA">（说明：最后出版的本期杂志目录与此预告目录或有少许改动）</SPAN></SPAN></P>
+<SCRIPT language=JavaScript>new Ajax.Updater('NewsContent_For_User', '/showContent.asp?no-cache='+Math.random() , {method: 'get', parameters: 'NewsId=F2F6GA5029EKF71' });</SCRIPT>

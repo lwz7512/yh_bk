@@ -1,0 +1,20 @@
+<TABLE style="WIDTH: 480px; BORDER-COLLAPSE: collapse; HEIGHT: 955px" cellSpacing=0 cellPadding=0 border=0>
+<TBODY>
+<TR>
+<TD class=3 vAlign=top align=middle width=90>
+<P>&nbsp;</P>
+<P><A href="#"><IMG height=66 src="/yh/images/2006/01/06-02.jpg" width=69 border=0></A></P>
+<P><A href="#"><IMG height=75 src="/yh/images/2006/01/b5.jpg" width=69 border=0></A></P>
+<P><A href="#"><IMG height=73 src="/yh/images/2006/01/b8.jpg" width=69 border=0></A></P>
+<P><A href="#"><IMG height=79 src="/yh/images/2006/01/b9.jpg" width=69 border=0></A></P>
+<P><A href="#"><IMG height=48 src="/yh/images/2006/01/yh06-1-bu.jpg" width=69 border=0></A><BR><BR></P></TD>
+<TD class=3 vAlign=top align=left>
+<P><STRONG>［新年寄语］</STRONG><BR><A href="/html/tg/2008/418/08418121158AK6JD1552FB79263HID1IF30.html" target=_blank>我们和历史一起进步</A>．．．．．．．．．．．．．本刊编辑部</P>
+<P><STRONG>［春秋笔］</STRONG><BR><A href="/html/cqb/2008/418/084181214464EC211553GEJB7J71F7K0KIK.html" target=_blank>民主共和国的标本</A>．．．．．．．．．．．．．．．．笑　蜀</P>
+<P><STRONG>［怀人篇］</STRONG><BR><A href="/html/hyp/2008/418/0841812165382AGE155498G8HCCJA3I159H.html" target=_blank>我在大是大非中认识了任仲夷</A>．．．．．．．．．．．徐庆全<BR><A href="/html/hyp/2008/418/08418121845B6K1B1555GHICG4589HAGB0F.html" target=_blank>我与耀邦共事</A>．．．．．．．．．．．．．．．．．．李　昌<BR><A href="/html/hyp/2008/418/08418121938JA8E51556A3E27G2H96F03DA.html" target=_blank>共青城的思念</A>．．．．．．．．．．．．．．．．．．万绍芬</P>
+<P><STRONG>［求实篇］</STRONG><BR><A href="/html/qsp/2008/418/0841812213626E1155773FB5H43AH520F7.html" target=_blank>跃入“共产主义”的悲壮实践</A>．．．．．．．．．．．王　泓<BR><A href="/html/qsp/2008/418/08418122245AA831558H9JF8543BHGE9GK.html" target=_blank>中外人工合成胰岛素比较</A>．．．．．．．．．．．．．熊卫民<BR><A href="/html/qsp/2008/418/08418122241D3JB615590ECEHIFAIEDKJ43.html" target=_blank>“以共产主义思想为核心”修正的风波</A>．．．．．．．余广人</P>
+<P><STRONG>［人物志］</STRONG><BR><A href="/html/rwz/2008/418/0841812246IB85H1560G92D68J95CG4C6F.html" target=_blank>费孝通在五七干校</A>．．．．．．．．．．．．．．．．刘　晓<BR><A href="/html/rwz/2008/418/08418122540I7C4156153C7II4GJE26J9J.html" target=_blank>熊希龄退出官场之后</A>．．．．．．．．．．．．．．．龙儒文<BR><A href="/html/rwz/2008/418/0841812263DG9JK1562F477DKG9H61G7C7.html" target=_blank>上海交大首任校长唐文治</A>．．．．．．．．．．．．．周金品</P>
+<P><STRONG>［往事录］</STRONG><BR><A href="/html/wsl/2008/418/08418122640A8AFE15637F4996979AAE43G.html" target=_blank>三十年前外电对周总理逝世的报道</A>．．．．．．．．．王忠人<BR><A href="/html/wsl/2008/418/084181228202072F1564HFFG2CEJJA0HFG7.html" target=_blank>难忘的一月八日</A>．．．．．．．．．．．．．．．．．董克发<BR><A href="/html/wsl/2008/418/08418122848D3IG31565FGE5FB8BAA04538.html" target=_blank>在日寇大屠杀中幸存的婴儿</A>．．．．．．．．．．．．邹　瓒<BR><A href="/html/wsl/2008/418/084181229192DDIB1566DJFKJJDG2B711D7.html" target=_blank>陆定一保护了故宫</A>．．．．．．．．．．．．．．．．陆　德</P>
+<P><STRONG>［一家言］</STRONG><BR><A href="/html/yjy/2008/418/08418123051DBDIG1567IH69JEHD45I3D59.html" target=_blank>历来君王需要用小人</A>．．．．．．．．．．．．．．．冯东书<BR><A href="/html/yjy/2008/418/084181231275693D1568KJE4HA2D76A75H9.html" target=_blank>“实事求是”考源</A>．．．．．．．．．．．．．．．．甘惜分</P>
+<P><STRONG>［古今谈］</STRONG><BR><A href="/html/gujt/2008/418/08418123222E83JJ1569E5809J9E99FA0KG.html" target=_blank>医多不治帝王病</A>．．．．．．．．．．．．．．．．．章立凡<BR><A href="/html/gujt/2008/418/08418123346G1983157056I5BAB2KDIGJ08.html" target=_blank>告别科举的曲折</A>．．．．．．．．．．．．．．．．．王　毅<BR><A href="/html/gujt/2008/418/084181234372I7EF1571GICHF23K504C9DJ.html" target=_blank>润笔今昔</A>．．．．．．．．．．．．．．．．．．．．韩士奇</P>
+<P><STRONG>［编读窗］</STRONG><BR><A href="/html/bdc/2008/418/0841812921JJCDA15498GA50H75EJC01G7.html" target=_blank>《炎黄春秋》读后感</A>．．．．．．．．．．．．．．．徐亚峰<BR><A href="/html/bdc/2008/418/0841812101484HHD1550H5H0887K51KDKIG.html" target=_blank>毛泽东约见塞克的史实</A>．．．．．．．．．．．．．．高　沂<BR><A href="/html/bdc/2008/418/08418121126JK89E15510BD0CD3JA1A9DEK.html" target=_blank>关于《杨成武谈揭批罗瑞卿实情》的几处小失误</A>．．．钟兆云<BR><A href="/html/bdc/2008/418/0841812834037J2154861FAF88F938K5AB.html" target=_blank>《炎黄春秋》感人至深</A>．．．．．．．．．．．．．．张　耐<BR></P></TD></TR></TBODY></TABLE>
